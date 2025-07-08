@@ -38,7 +38,7 @@
 
 
 
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] (https://github.com/dthh2611/166666666 ）</span>
 
 
 
